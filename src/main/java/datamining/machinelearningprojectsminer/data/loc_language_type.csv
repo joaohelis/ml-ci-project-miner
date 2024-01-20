@@ -1,0 +1,199 @@
+language;type
+Markdown;prose
+Objective C;programming
+Julia;programming
+TOML;data
+YAML;data
+gitignore;data
+License;prose
+Plain Text;prose
+Shell;programming
+Cython;programming
+Python;programming
+ReStructuredText;prose
+JSON;data
+Autoconf;programming
+Batch;programming
+Makefile;programming
+Dockerfile;programming
+Docker ignore;programming
+SVG;data
+Jupyter;markup
+HTML;markup
+CSS;markup
+JavaScript;programming
+BASH;programming
+TypeScript Typings;programming
+CSV;data
+Systemd;data
+Ruby;programming
+Gemfile;programming
+R;programming
+Java;programming
+XML;data
+LaTeX;markup
+C++;programming
+C Header;programming
+CMake;programming
+TeX;markup
+Swig;programming
+Properties File;data
+Gradle;data
+Kotlin;programming
+TypeScript;programming
+Extensible Stylesheet Language Transformations;programming
+Expect;nil
+Org;prose
+C;programming
+C Shell;programming
+Perl;programming
+Rust;programming
+LESS;markup
+Groovy;programming
+Game Maker Language;programming
+C++ Header;programming
+SQL;data
+Vue;markup
+Sass;markup
+Smarty Template;programming
+ColdFusion;programming
+PHP;programming
+ColdFusion CFScript;programming
+Swift;programming
+Objective C++;programming
+Prolog;programming
+Protocol Buffers;data
+AWK;programming
+Scala;programming
+Jade;markup
+Go Template;programming
+Go;programming
+Module-Definition;nil
+Arvo;data
+Document Type Definition;nil
+Powershell;programming
+JSX;programming
+Lisp;programming
+C#;programming
+MSBuild;programming
+nuspec;data
+JavaServer Pages;programming
+AsciiDoc;prose
+XML Schema;markup
+Xtend;programming
+PL/SQL;programming
+Lua;programming
+Stylus;markup
+Jinja;markup
+BuildStream;nil
+Gherkin Specification;programming
+Elixir;programming
+Emacs Lisp;programming
+Forth;programming
+SystemVerilog;programming
+Bazel;programming
+D;programming
+m4;programming
+Puppet;programming
+Patch;data
+Mako;programming
+Visual Basic for Applications;programming
+FORTRAN Modern;programming
+Rakefile;programming
+Dart;programming
+Xcode Config;nil
+Isabelle;programming
+OCaml;programming
+Standard ML (SML);programming
+Haskell;programming
+Handlebars;markup
+Zsh;programming
+Terraform;programming
+JSONL;data
+Mustache;markup
+Alex;data
+Specman e;programming
+Assembly;programming
+FXML;data
+CoffeeScript;programming
+Happy;programming
+Cabal;data
+Nim;programming
+Brainfuck;programming
+Clojure;programming
+TCL;programming
+XAML;data
+Meson;programming
+LEX;programming
+ignore;data
+F#;programming
+Verilog;programming
+FORTRAN Legacy;programming
+Coq;programming
+Scheme;programming
+Vala;programming
+HEX;nil
+Android Interface Definition Language;programming
+LD Script;programming
+GLSL;programming
+Vim Script;programming
+AutoHotKey;programming
+Freemarker Template;programming
+Thrift;programming
+LLVM IR;programming
+Elm;programming
+IDL;programming
+Pascal;programming
+Stata;programming
+SRecode Template;markup
+Razor;markup
+ASP.NET;programming
+Nix;programming
+ActionScript;programming
+ReasonML;programming
+SAS;programming
+GN;data
+Ruby HTML;markup
+Idris;programming
+MQL4;programming
+MQL5;programming
+MQL Header;programming
+Lean;programming
+Erlang;programming
+HAML;markup
+Visual Basic;programming
+Q#;programming
+ClojureScript;programming
+Boo;programming
+Basic;programming
+Korn Shell;programming
+Web Services Description Language;data
+Ada;programming
+Report Definition Language;nil
+QML;programming
+Macromedia eXtensible Markup Language;markup
+Twig Template;markup
+Flow9;programming
+Fish;programming
+sed;programming
+SKILL;nil
+F*;programming
+Processing;programming
+MUMPS;programming
+ASP;programming
+Monkey C;programming
+Closure Template;markup
+Fragment Shader File;programming
+Vertex Shader File;programming
+Bitbake;programming
+Device Tree;nil
+COBOL;programming
+VHDL;programming
+Crystal;programming
+Opalang;programming
+Robot Framework;programming
+Wolfram;programming
+Haxe;programming
+Alloy;programming
+Unreal Script;programming
+Varnish Configuration;programming

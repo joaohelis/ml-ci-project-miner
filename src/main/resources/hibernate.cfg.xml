@@ -1,0 +1,32 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+  "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+  "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+  <session-factory>
+    <property name="hibernate.connection.username">root</property>
+    <property name="hibernate.connection.password"></property>
+    <property name="hibernate.connection.url">jdbc:mysql://localhost/ml_and_ci_2023</property>
+    <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+    <property name="hibernate.dialect">org.hibernate.dialect.MySQL5InnoDBDialect</property>        
+    <property name="hibernate.hbm2ddl.auto">update</property>
+    <property name="show_sql">false</property>
+    <property name="format_sql">true</property>
+        
+    <mapping class="datamining.machinelearningprojectsminer.models.Repository" />
+    <mapping class="datamining.machinelearningprojectsminer.models.Commit" />
+    <mapping class="datamining.machinelearningprojectsminer.models.LOCMetric" />    
+    <mapping class="datamining.machinelearningprojectsminer.models.CoverallsRepoInfo" />
+    <mapping class="datamining.machinelearningprojectsminer.models.CoverageBuild" />    
+    <mapping class="datamining.machinelearningprojectsminer.models.TravisBuild" />    
+    <mapping class="datamining.machinelearningprojectsminer.models.WorkflowRun" />
+    <mapping class="datamining.machinelearningprojectsminer.models.Workflow" />
+    <mapping class="datamining.machinelearningprojectsminer.models.Job" />
+    <mapping class="datamining.machinelearningprojectsminer.models.PullRequest" />
+    <mapping class="datamining.machinelearningprojectsminer.models.PullRequestComment" />
+
+    <mapping class="datamining.machinelearningprojectsminer.models.CodecovRepoInfo" />    
+    <mapping class="datamining.machinelearningprojectsminer.models.WorkflowConfFileChange" />    
+                            
+  </session-factory>
+</hibernate-configuration>
