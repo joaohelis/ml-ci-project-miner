@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to **ml-ci-project-miner**, a Java-based tool designed for mining data from both machine learning (ML) and non-ML projects on GitHub. This project supports a comprehensive study outlined in the paper "HOW DO MACHINE LEARNING PROJECTS USE CONTINUOUS INTEGRATION PRACTICES? AN EMPIRICAL STUDY ON GITHUB ACTIONS," published in the MSR conference in 2024. For detailed results and access to the replication package, please visit the project's web page: [CI-ML-MSR](https://ci-ml-msr.github.io).
+Welcome to **ml-ci-project-miner**, a Java-based tool designed for mining data from both machine learning (ML) and non-ML projects on GitHub. This project supports a comprehensive study outlined in the paper "HOW DO MACHINE LEARNING PROJECTS USE CONTINUOUS INTEGRATION PRACTICES? AN EMPIRICAL STUDY ON GITHUB ACTIONS," published in the proceedings of the MSR conference in 2024. For detailed results and access to the replication package, please visit the project's web page: [CI-ML-MSR](https://ci-ml-msr.github.io).
 
 ## Usage
 
@@ -31,3 +31,11 @@ Explore the "models" package, which contains classes representing the data model
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/joaohelis/ml-ci-project-miner.git
+
+### Contribution
+
+Feel free to contribute to this project by submitting issues, feature requests, or pull requests. Your input is valuable in enhancing the tool and its capabilities.
+
+### License
+
+This project is licensed under the MIT License.
